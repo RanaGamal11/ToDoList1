@@ -1,0 +1,15 @@
+.todo-container{
+background-color: #1e1160 ;
+padding: 20px;
+border-radius: 8px;
+width: 400px;
+text-align: center;
+box-shadow: 0 4px 8px rgba(89, 32, 196, 0.1);
+
+
+
+}
+h1{
+    margin-bottom: 20px;
+color: white;
+} 

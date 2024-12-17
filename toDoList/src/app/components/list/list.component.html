@@ -1,0 +1,7 @@
+<ul id="task-list">
+    @for (item of list; track item.id) {
+
+        <app-item [item]="item" (onItemRemove)="itemRemoveHandler($event)"></app-item>
+
+    }
+</ul>

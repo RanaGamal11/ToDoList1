@@ -1,0 +1,16 @@
+@import'bootstrap/dist/css/bootstrap.min.css';
+body{
+
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+background-color:  #4768af;
+
+}
+input{
+    border: none;
+    box-shadow: 0 0 0 rgba(52, 152, 219, 0.5);
+;}
